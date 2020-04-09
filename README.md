@@ -1,2 +1,2 @@
 # git-github
-this is devops
+this is devops pratice class
